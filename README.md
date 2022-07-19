@@ -9,4 +9,4 @@ Fazendo assim um site responsivo, para poder ser visto tanto no computador como 
 <h2>💻 Tecnologias:</h2>
 HTML CSS JAVASCRIPT
 <h2>💡Conclusão</h2>
-Ainda nao esta totalmente pronto, a medida que estiver concluindo irei atualizar, porem estou satisfeito com o resultado e evolução em casa projeto.
+Ainda não esta totalmente pronto, a medida que estiver concluindo irei atualizar, porém estou satisfeito com o resultado e evolução em cada projeto.
