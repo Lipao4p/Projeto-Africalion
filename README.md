@@ -1,5 +1,6 @@
 <h1># Projeto-Africalion</h1>
-![image](https://user-images.githubusercontent.com/101216130/179735434-6b60c31b-f2aa-4c4f-9649-1cde6ea845dd.png)
+
+![cats](https://user-images.githubusercontent.com/101216130/179735786-4f0ed7ca-c4b4-4b6f-b183-5039244567d8.jpg)
 
 
 <h2>✏️ Visão Geral:</h2>
